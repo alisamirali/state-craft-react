@@ -1,0 +1,30 @@
+{
+  "name": "state-craft-react",
+  "version": "1.0.0",
+  "description": "State Craft is a lightweight, TypeScript-friendly state management library for React. It offers a simple API with hooks and context-based providers, perfect for managing global state efficiently without the complexity of larger libraries.",
+  "main": "src/build/index.js",
+  "types": "src/build/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alisamirali/state-craft-react.git"
+  },
+  "keywords": [
+    "state",
+    "react",
+    "typescript",
+    "state management",
+    "state management library"
+  ],
+  "author": "Ali Samir",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "typescript": "^5.5.3"
+  }
+}
