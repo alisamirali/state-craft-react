@@ -1,6 +1,6 @@
 # State Craft
 
-**state-craft** is a lightweight, TypeScript-friendly state management library for React. It offers a simple API with hooks and context-based providers, perfect for managing global state efficiently without the complexity of larger libraries.
+**state-craft** is a lightweight, TypeScript-friendly state management library for React. It offers a simple API with hooks and context-based providers, perfect for managing global states efficiently without the complexity of larger libraries.
 
 ## Features
 
@@ -14,13 +14,13 @@
 Install State-Craft using npm:
 
 ```bash
-npm install state-craft
+npm install state-craft-react
 ```
 
 or
 
 ```bash
-yarn add state-craft
+yarn add state-craft-react
 ```
 
 ---
